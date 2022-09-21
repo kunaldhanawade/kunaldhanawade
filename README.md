@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunal Dhanawade</h1>
 <h3 align="center">I am an Information Technology Student from SSJCOE. I am passionate about new technologies and love to explore them.</h3>
 
-- 🌱 I’m currently learning **Python for AI/DS/ML**
+- 🌱 I’m currently learning **Android App Development using Java**
 
 - 📫 How to reach me **kunaldhanawade7@gmail.com**
 
-- ⚡ Fun fact **I like listening to Justin Bieber**
+- ⚡ Fun fact **I like listening to Justin Bieber or talking about the MCU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
