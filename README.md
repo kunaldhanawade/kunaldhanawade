@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kunal Dhanawade
 
-### I am an Information Technology Student from SSJCOE. I am passionate about new technologies and love to explore them.
+### a 2023 graduate with a Bachelor of Engineering in Technology degree. I am a currently seeking Full-Time Roles in Android/Software Development. I am passionate about new technologies and love to explore them.
 
 - 🌱 I’m currently learning **Android App Development using Java**
 - 📫 How to reach me **kunaldhanawade7@gmail.com**
