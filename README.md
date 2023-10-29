@@ -1,10 +1,10 @@
 # Hi 👋, I'm Kunal Dhanawade
 
-### I am a 2023 graduate with a Bachelor of Engineering in Technology degree. I am a currently seeking Full-Time Roles in Android/Software Development. I am passionate about new technologies and love to explore them.
+### I am a 2023 graduate with a Bachelor of Engineering in Technology degree. I am a currently pursuing Post-Graduate Diploma in Advanced Computing from CDAC. I am passionate about new technologies and love to explore them.
 
-- 🌱 I’m currently learning **Android App Development using Java**
+<!-- - 🌱 I’m currently learning **Android App Development using Java**-->
 - 📫 How to reach me **kunaldhanawade7@gmail.com**
-- ⚡ Fun fact **I like listening to Justin Bieber or talking about the MCU**
+- ⚡ Fun fact **I like listening to pop music or talking about the MCU**
 
 ### Connect with me:
 
