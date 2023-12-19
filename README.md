@@ -1,6 +1,6 @@
-# Hi 👋, I'm Kunal Dhanawade
+# Hi 👋 I'm Kunal Dhanawade
 
-### I am a 2023 graduate with a Bachelor of Engineering in Technology degree. I am a currently pursuing Post-Graduate Diploma in Advanced Computing from CDAC. I am passionate about new technologies and love to explore them.
+### I am a 2023 graduate with a Bachelor of Engineering in Information Technology degree. I am a currently pursuing Post-Graduate Diploma in Advanced Computing from CDAC. I am passionate about new technologies and love to explore them.
 
 ### I believe in everything being an object, just doesn't treat them that way irl😂
 
@@ -12,7 +12,9 @@
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Kunal's LinkedIn" width="40" height="40" />](https://linkedin.com/in/dhanawade-kunal)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Kunal's Twitter" width="40" height="40" />](https://twitter.com/kunalrd07)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kunal's Instagram" width="40" height="40" />](https://instagram.com/kunaldhanawade)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kunal's Instagram" width="40" height="40" />](https://instagram.com/kunaldhanawade) 
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Kunal's Hackerrank" width="40" height="40" />](https://www.hackerrank.com/profile/kunaldhanawade7)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kunal's Hackerrank" width="40" height="40" />](https://leetcode.com/kunaldhanawade/)
 
 ### Languages and Tools:
 
